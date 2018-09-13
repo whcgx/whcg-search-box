@@ -11,8 +11,7 @@ class WhcgSearchBox extends polymerElement_js.PolymerElement {
         return polymerElement_js.html `
         <style>
             :host {
-                padding: 20px;
-                background-color: red;
+
             }
         </style>
   
